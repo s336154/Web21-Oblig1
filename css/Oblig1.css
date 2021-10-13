@@ -209,7 +209,7 @@ width: 100%;
 color: pink;
 font-size: 36px;
 text-align: center;
-background-color: hsl(0, 100%, 25%);
+background-color: black;
 opacity: 0.6;
 }
 
@@ -231,13 +231,16 @@ font-size; 22px;
 color: pink;
 font-family: Papyrus, Copperplate, Fantasy;
 font-weight: bold;
+background-color: black;
+align: center;
+opacity: 0.8;
 }
 
 .about {
 color: pink;
 font-size: 40px;
 text-align: center;
-background-color: hsl(0, 100%, 25%);
+background-color: black;
 opacity: 0.6;
 font-family: Papyrus, Copperplate, Fantasy;
 font-weight: bold;
