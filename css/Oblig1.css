@@ -21,8 +21,9 @@ body {
     width: 100%;
 
 }
+
 h2 {
-font-size: 38px;
+font-size: 28px;
 color:pink;
 font-weight: bold;
 }
@@ -44,18 +45,18 @@ li.hidden {
 visibility: hidden;
 }
 
-nav li{
+ li{
 display: inline;
   letter-spacing: 2px;
   display: inline;
-  font-size: 50px;
+  font-size: 32px;
   width: 100%;
    font-stretch: extended;
  font-weight: bold;
 
 }
 
-nav li a:hover {
+ul  li a:hover {
 text-decoration: underline;
 background-color: lightgray;
 padding: 3px;
