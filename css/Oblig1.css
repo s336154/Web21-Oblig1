@@ -8,6 +8,7 @@
     text-align: center;
     font-size: 18px;
 
+
 }
 
 
@@ -15,8 +16,9 @@
 
 
 body {
-  width: 1250px;
+
   background-image: url(../image/sari1.jpg);
+    width: 1250px;
 
 }
 h2 {
@@ -94,7 +96,7 @@ font-weight: bold;
     background-color: black;
     opacity:0.6;
     padding: 5px 5px;
-    width: 100%;
+    width: 1250px;
     margin: 5px 5px:
 }
 
@@ -105,6 +107,7 @@ font-weight: bold;
   grid-gap: 10px;
   background-color: black;
   padding: 10px;
+    width: 1250px;
 
 }
 
